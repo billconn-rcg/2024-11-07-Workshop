@@ -384,9 +384,9 @@ please preview your site before committing, and make sure to run
 <h2 id="setup">Setup</h2>
 
 <p>
-  To participate in a
+  To participate in the
   {% if site.carpentry == "swc" %}
-  Software Carpentry
+  USD RCG/DSRS
   {% elsif site.carpentry == "dc" %}
   Data Carpentry
   {% elsif site.carpentry == "lc" %}
